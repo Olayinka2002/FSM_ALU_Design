@@ -1,0 +1,17 @@
+library IEEE
+from IEEE use STD_LOGIC_1164.ALL
+mux entity is
+port(
+	inputA: in STD_LOGIC;
+	inputB: in STD_LOGIC;
+	inputC: in STD_LOGIC;
+	outputF: out STD_LOGIC
+);
+
+behavioral architecture is
+
+
+
+
+
+end behavioral

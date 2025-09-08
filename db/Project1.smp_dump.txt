@@ -1,0 +1,8 @@
+
+State Machine - |ALU_Logic_Controller|fsm:inst6|curr_state
+Name curr_state.accu curr_state.Wr_Result curr_state.procc curr_state.fetch curr_state.init 
+curr_state.init 0 0 0 0 0 
+curr_state.fetch 0 0 0 1 1 
+curr_state.procc 0 0 1 0 1 
+curr_state.Wr_Result 0 1 0 0 1 
+curr_state.accu 1 0 0 0 1 

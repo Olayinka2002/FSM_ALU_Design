@@ -1,0 +1,213 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'fsm:inst6|Wr_C'
+Slack : -14.246
+TNS   : -82.918
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -6.335
+TNS   : -10.632
+
+Type  : Slow 1100mV 85C Model Setup 'fsm:inst6|curr_state.procc'
+Slack : -4.823
+TNS   : -8.351
+
+Type  : Slow 1100mV 85C Model Setup 'op_code[1]'
+Slack : -3.833
+TNS   : -3.833
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'op_code[1]'
+Slack : 0.461
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'fsm:inst6|Wr_C'
+Slack : 1.083
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'fsm:inst6|curr_state.procc'
+Slack : 2.504
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'fsm:inst6|curr_state.fetch'
+Slack : -2.225
+TNS   : -27.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'fsm:inst6|Wr_C'
+Slack : -0.394
+TNS   : -4.425
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -3.224
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'op_code[1]'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'fsm:inst6|curr_state.procc'
+Slack : 0.326
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'fsm:inst6|Wr_C'
+Slack : -14.605
+TNS   : -83.366
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -6.060
+TNS   : -9.941
+
+Type  : Slow 1100mV 0C Model Setup 'fsm:inst6|curr_state.procc'
+Slack : -4.765
+TNS   : -8.306
+
+Type  : Slow 1100mV 0C Model Setup 'op_code[1]'
+Slack : -3.855
+TNS   : -3.855
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'op_code[1]'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'fsm:inst6|Wr_C'
+Slack : 1.035
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'fsm:inst6|curr_state.procc'
+Slack : 2.494
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'fsm:inst6|curr_state.fetch'
+Slack : -2.225
+TNS   : -26.928
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'fsm:inst6|Wr_C'
+Slack : -0.394
+TNS   : -4.370
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -3.299
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'op_code[1]'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'fsm:inst6|curr_state.procc'
+Slack : 0.326
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'fsm:inst6|Wr_C'
+Slack : -7.076
+TNS   : -43.735
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.875
+TNS   : -5.893
+
+Type  : Fast 1100mV 85C Model Setup 'fsm:inst6|curr_state.procc'
+Slack : -2.892
+TNS   : -4.987
+
+Type  : Fast 1100mV 85C Model Setup 'op_code[1]'
+Slack : -2.115
+TNS   : -2.115
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'op_code[1]'
+Slack : 0.255
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'fsm:inst6|Wr_C'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'fsm:inst6|curr_state.procc'
+Slack : 2.041
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'fsm:inst6|curr_state.fetch'
+Slack : -1.702
+TNS   : -13.942
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.398
+TNS   : -0.718
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'op_code[1]'
+Slack : -0.026
+TNS   : -0.067
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'fsm:inst6|Wr_C'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'fsm:inst6|curr_state.procc'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'fsm:inst6|Wr_C'
+Slack : -6.685
+TNS   : -40.173
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -3.320
+TNS   : -4.724
+
+Type  : Fast 1100mV 0C Model Setup 'fsm:inst6|curr_state.procc'
+Slack : -2.763
+TNS   : -4.821
+
+Type  : Fast 1100mV 0C Model Setup 'op_code[1]'
+Slack : -1.760
+TNS   : -1.760
+
+Type  : Fast 1100mV 0C Model Hold 'op_code[1]'
+Slack : 0.115
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'fsm:inst6|Wr_C'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'fsm:inst6|curr_state.procc'
+Slack : 2.042
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'fsm:inst6|curr_state.fetch'
+Slack : -1.702
+TNS   : -13.722
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.392
+TNS   : -0.754
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'op_code[1]'
+Slack : -0.024
+TNS   : -0.069
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'fsm:inst6|Wr_C'
+Slack : 0.073
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'fsm:inst6|curr_state.procc'
+Slack : 0.352
+TNS   : 0.000
+
+------------------------------------------------------------

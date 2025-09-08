@@ -1,0 +1,17 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity project1 is
+port(
+	input_A, input_B: IN STD_LOGIC;
+	output : OUT STD_LOGIC
+);
+
+end project1;
+
+Architecture behavioral of project1 is
+begin
+
+	output <= input_A and input_B;
+
+end behavioral;

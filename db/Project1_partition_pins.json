@@ -1,0 +1,225 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "carry_out",
+					"strict" : false
+				},
+				{
+					"name" : "Result[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Alu_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[7]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R_b_Output[0]",
+					"strict" : false
+				},
+				{
+					"name" : "STATE_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "STATE_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "STATE_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "op_code[2]",
+					"strict" : false
+				},
+				{
+					"name" : "op_code[1]",
+					"strict" : false
+				},
+				{
+					"name" : "op_code[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Rst_C",
+					"strict" : false
+				},
+				{
+					"name" : "B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Rst_B",
+					"strict" : false
+				},
+				{
+					"name" : "A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Rst_A",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "acc",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

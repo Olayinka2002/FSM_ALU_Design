@@ -1,0 +1,19 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.all
+
+entity fsm is
+port(
+	clk: in std_logic;
+	reset: in std_logic;
+	acc, start: in std_logic;
+	Wr_A, Wr_B, sel: out std_logic
+	
+);
+end fsm;
+
+Architecture behavioral of fsm is
+begin
+
+
+
+end behavioral
