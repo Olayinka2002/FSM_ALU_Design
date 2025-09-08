@@ -25,7 +25,7 @@ and was validated through simulation and FPGA synthesis.
 
 
 ## Results
-- Validated ALU functionality through simulation and FPGA synthesis
+- Validated ALU functionality through simulation.
 - Demonstrated proper datapath–control interaction
 - Verified arithmetic and logical operations with test cases
 - <img width="1881" height="375" alt="image" src="https://github.com/user-attachments/assets/72e04c3a-fee7-41a6-bf50-7aa8f3d3c921" />
